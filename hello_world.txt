@@ -1,0 +1,7 @@
+Hello, World!  
+
+Practicing with some git commands. 
+
+While we already use git and understand it fairly well, it's time we start paying more attention to the finer details. 
+
+Get to know this amazing tool a little better.  ;)
